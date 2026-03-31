@@ -37,8 +37,8 @@ mavenPublishing {
     pom {
         name = "KGguf"
         description = "A pure Kotlin GGUF Metadata Reader and Analyzer."
-        inceptionYear = "2024"
-        url = "https://github.com/kotlin/multiplatform-library-template/"
+        inceptionYear = "2026"
+        url = "https://github.com/ggdev-ops/KGguf"
         licenses {
             license {
                 name = "Apache-2.0"
@@ -48,11 +48,11 @@ mavenPublishing {
         developers {
             developer {
                 id = "developer"
-                name = "Klama Team"
+                name = "ggdev-ops"
             }
         }
         scm {
-            url = "https://github.com/kotlin/multiplatform-library-template/"
+            url = "https://github.com/ggdev-ops/KGguf"
         }
     }
 }
